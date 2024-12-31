@@ -1,8 +1,5 @@
 # Echo Labs Website
 
-> [!IMPORTANT]  
-> This Website is under active development and may not function correctly or contain up to date information.
-> 
 This is the website for our project. Fell free to look at the code and submit a pull request or issue if you notice anything.
 #
 <div>
