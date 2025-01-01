@@ -1,5 +1,5 @@
-# Echo Labs Website
-### echo-labs.xyz
+# Echo Labs Development Website 
+### echo-labs.xyz 
 
 > [!IMPORTANT]  
 > This Website is under active development and may not function correctly or contain up to date information. If you are looking for the up to date website check out the main branch.
