@@ -2,7 +2,7 @@
 ### echo-labs.xyz
 
 > [!IMPORTANT]  
-> This Website is under active development and may not function correctly or contain up to date information.
+> This Website is under active development and may not function correctly or contain up to date information. If you are looking for the up to date website check out the main branch.
 > 
 This is the website for our project. Fell free to look at the code and submit a pull request or issue if you notice anything.
 #
