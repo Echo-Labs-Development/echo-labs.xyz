@@ -1,4 +1,4 @@
-# Echo Labs Development Website 
+# Echo Labs Development Website
 ### echo-labs.xyz 
 
 > [!IMPORTANT]  

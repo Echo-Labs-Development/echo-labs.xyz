@@ -1,0 +1,8 @@
+.title {
+    font-size: 60px;
+    text-align: center;
+    font-weight: 25px;
+    color: whitesmoke;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8), 0 0 10px rgba(255, 255, 255, 0.6), 0 0 15px rgba(255, 255, 255, 0.4);
+    line-height: 60px;
+}
